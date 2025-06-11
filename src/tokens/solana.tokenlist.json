@@ -32282,3 +32282,33 @@
     "patch": 3
   }
 }
+,
+
+  {
+
+    "chainId": 101,
+
+    "address": "H337yojPJsVu8hRGX1zWA15paxk7KC51MTersMmT3ThD",
+
+    "symbol": "wUSDT",
+
+    "name": "Token Wrapped USDT (Sollet)",
+
+    "decimals": 6,
+
+    "logoURI": "https://raw.githubusercontent.com/wusdscan/token-list/main/assets/mainnet/H337yojPJsVu8hRGX1zWA15paxk7KC51MTersMmT3ThD/logo.png",
+
+    "tags": ["stablecoin"],
+
+    "extensions": {
+
+      "website": "https://solowusdt.com",
+
+      "twitter": "https://x.com/AdCryptooo",
+
+      "telegram": "https://t.me/Solana_AirDropes"
+
+    }
+
+  }
+
